@@ -24,7 +24,7 @@
 
 
     <properties>
-        <kafka.version>2.2.0</kafka.version>
+        <kafka.version>2.6.0</kafka.version>
         <metrics.version>4.0.5</metrics.version>
         <junit.jupiter.version>5.4.1</junit.jupiter.version>
         <junit.vintage.version>5.4.1</junit.vintage.version>
